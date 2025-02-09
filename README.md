@@ -8,10 +8,6 @@ Drum Keys is a fun and interactive web application that allows you to play drum 
 - Visual feedback on key press with a color highlight and scaling effect.
 - Responsive design that works on various screen sizes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Credits
 
 - Drum icons created by [vectorsmarket15 - Flaticon](https://www.flaticon.com/free-icons/drum).
