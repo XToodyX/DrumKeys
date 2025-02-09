@@ -1,4 +1,4 @@
-# Drum Keys 
+# 🥁 Drum Keys 🥁
 
 Drum Keys is a fun and interactive web application that allows you to play drum sounds using your keyboard. Each key on your keyboard corresponds to a different drum sound, providing an engaging way to create music.
 
@@ -15,6 +15,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Credits
 
 - Drum icons created by [vectorsmarket15 - Flaticon](https://www.flaticon.com/free-icons/drum).
+- Sound assets provided by Wes Bos and his JavaScript30 course
 
 ## Contributing
 
